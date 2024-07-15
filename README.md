@@ -30,12 +30,6 @@
 - **Frameworks:** Django
 - **Tools:** Git, Docker, Kubernetes
 
-### 📈 GitHub Stats
-<div align="center">
-	<a href="https://github.com/yooninsu/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api?username=yooninsu&show_icons=true&theme=radical" />
-	</a>
-</div>
 
 ### 🌐 Connect with Me
 <div align="center">
