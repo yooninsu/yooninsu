@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=윤인수의 Github&fontSize=90" />
 
 <!--
 **yooninsu/yooninsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
