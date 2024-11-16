@@ -1,6 +1,6 @@
 ## Insu Yoon's GitHub
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5D81,100:8F8FA8&height=150&section=header" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yis8248)](https://solved.ac/yis8248/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=yis8248)](https://solved.ac/yis8248/)
 
 <div align="center">
 	<a href="https://github.com/yooninsu/github-readme-stats">
