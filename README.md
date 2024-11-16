@@ -31,15 +31,7 @@
 
 
 ### 🌐 Connect with Me
-<div align="center">
-	<a href="https://www.linkedin.com/in/yooninsu">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/yooninsu">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-	</a>
-</div>
-
+<div align="center"> <a href="https://www.linkedin.com/in/yooninsu"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="https://twitter.com/yooninsu"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /> </a> <a href="https://velog.io/@yooninsu/posts"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /> </a> </div>
 <!--
 **yooninsu/yooninsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
