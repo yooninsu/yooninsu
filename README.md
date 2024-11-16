@@ -6,6 +6,7 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooninsu&layout=compact&theme=radical" />
 	</a>
 </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yis8248)](https://solved.ac/yis8248/)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
