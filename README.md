@@ -49,24 +49,22 @@ Building regulated (SaMD / dGMP) ML systems — from research code to reproducib
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
 	<a href="https://github.com/yooninsu">
-		<img height="165" src="https://github-readme-stats.vercel.app/api?username=yooninsu&show_icons=true&theme=radical&hide_border=true" />
-		<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooninsu&layout=compact&theme=radical&hide_border=true" />
+		ercel.app/api?username=yooninsu&show_icons=true&theme=radical&hide_border=true" />
+		username=yooninsu&layout=compact&theme=radical&hide_border=true" />
 	</a>
 </div>
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=yooninsu&theme=radical&hide_border=true" />
+	https://streak-stats.demolab.com/?user=yooninsu&theme=radical&hide_border=true
 </div>
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=yooninsu&theme=redical&hide_border=true" />
+	https://github-readme-activity-graph.vercel.app/graph?username=yooninsu&theme=radical&hide_border=true
 </div>
-
 ---
 
 ### 🌐 Connect with Me
