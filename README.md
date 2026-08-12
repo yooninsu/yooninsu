@@ -65,7 +65,6 @@ Building regulated (SaMD / dGMP) ML systems — from research code to reproducib
 <div align="center">
 	https://github-readme-activity-graph.vercel.app/graph?username=yooninsu&theme=radical&hide_border=true
 </div>
----
 
 ### 🌐 Connect with Me
 
